@@ -46,12 +46,6 @@ This is my self portfolio web page . This is discribes my self , I have a deep i
 <a href="/"><img src="https://user-images.githubusercontent.com/62628408/150613011-b78a7f5a-0af1-4312-aab0-0022e7258693.png" width="100%"></a>
 <a href="https://gitpod.io/https:/CommunityPro/portfolio-html"><img src="https://gitpod.io/button/open-in-gitpod.svg"></a>
 
-## Design credit: 
-- <a href="https://github.com/purushotham2205">Communitypro</a>
-- <a href="https://dribbble.com/shots/14385288-Portfolio-Landing-Page?utm_source=Clipboard_Shot&utm_campaign=oguzyagiz&utm_content=Portfolio%3A%20Landing%20Page&utm_medium=Social_Share&utm_source=Clipboard_Shot&utm_campaign=oguzyagiz&utm_content=Portfolio%3A%20Landing%20Page&utm_medium=Social_Share">Dribble Inspiration</a>
-- <a href="https://github.com/frankiefab100">Franklin U.O. Ohaegbulam</a>
-- <a href="https://openpeeps.com/">Open Peeps Illustration</a> by <a href="https://twitter.com/pablostanley">Pablo Stanley</a> 
-
 ## How to Contribute
 
 Are you contributing to this project, please ensure all pull requests and contributions comply with our <a href="https://github.com/purushotham2205">guidelines.</a>
